@@ -1,0 +1,13 @@
+{
+  "$id": "c_aboutPhoto",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About Photo",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "image",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true
+    }
+  }
+}

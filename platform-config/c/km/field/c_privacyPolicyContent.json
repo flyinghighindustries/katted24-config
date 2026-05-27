@@ -1,0 +1,13 @@
+{
+  "$id": "c_privacyPolicyContent",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Privacy Policy Content",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  }
+}

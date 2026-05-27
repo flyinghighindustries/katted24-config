@@ -1,0 +1,13 @@
+{
+  "$id": "c_heroLede",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Hero Lede",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  }
+}

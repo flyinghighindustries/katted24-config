@@ -1,0 +1,13 @@
+{
+  "$id": "c_solutionsIntro",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Solutions Intro",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  }
+}

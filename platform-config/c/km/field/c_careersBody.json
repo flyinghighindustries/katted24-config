@@ -1,0 +1,13 @@
+{
+  "$id": "c_careersBody",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Careers Body",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  }
+}

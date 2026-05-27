@@ -1,0 +1,13 @@
+{
+  "$id": "c_faqHeading",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Faq Heading",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

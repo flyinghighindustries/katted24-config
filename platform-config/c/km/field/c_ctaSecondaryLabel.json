@@ -1,0 +1,13 @@
+{
+  "$id": "c_ctaSecondaryLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Cta Secondary Label",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "c_valueTitles",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Value Titles",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "list",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  }
+}

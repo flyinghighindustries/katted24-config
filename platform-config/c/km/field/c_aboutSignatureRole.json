@@ -1,0 +1,13 @@
+{
+  "$id": "c_aboutSignatureRole",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About Signature Role",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

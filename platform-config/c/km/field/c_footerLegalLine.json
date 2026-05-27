@@ -1,0 +1,13 @@
+{
+  "$id": "c_footerLegalLine",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Footer Legal Line",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

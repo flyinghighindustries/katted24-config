@@ -1,0 +1,13 @@
+{
+  "$id": "c_valuePropsHeading",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Value Props Heading",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

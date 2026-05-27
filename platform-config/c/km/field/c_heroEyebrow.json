@@ -1,0 +1,13 @@
+{
+  "$id": "c_heroEyebrow",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Hero Eyebrow",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

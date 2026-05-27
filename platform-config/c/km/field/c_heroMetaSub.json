@@ -1,0 +1,13 @@
+{
+  "$id": "c_heroMetaSub",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Hero Meta Sub",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

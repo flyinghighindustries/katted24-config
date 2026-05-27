@@ -1,0 +1,13 @@
+{
+  "$id": "c_valuesHeading",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Values Heading",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

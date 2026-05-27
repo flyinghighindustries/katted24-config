@@ -1,0 +1,13 @@
+{
+  "$id": "c_favicon",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Favicon",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "image",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true
+    }
+  }
+}

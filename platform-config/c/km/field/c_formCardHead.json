@@ -1,0 +1,13 @@
+{
+  "$id": "c_formCardHead",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Form Card Head",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

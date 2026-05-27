@@ -1,0 +1,13 @@
+{
+  "$id": "c_ctaPrimaryLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Cta Primary Label",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

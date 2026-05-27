@@ -1,0 +1,18 @@
+{
+  "$id": "c_inspirationGallery",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Inspiratsioon",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "list",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "type": {
+        "imageType": {
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  }
+}

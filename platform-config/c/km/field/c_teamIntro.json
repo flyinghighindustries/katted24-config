@@ -1,0 +1,13 @@
+{
+  "$id": "c_teamIntro",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Team Intro",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  }
+}

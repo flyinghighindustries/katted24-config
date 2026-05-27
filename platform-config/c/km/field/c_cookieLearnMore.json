@@ -1,0 +1,13 @@
+{
+  "$id": "c_cookieLearnMore",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Cookie Learn More",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

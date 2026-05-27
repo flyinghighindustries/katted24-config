@@ -1,0 +1,13 @@
+{
+  "$id": "c_policyCookiesTab",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Policy Cookies Tab",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

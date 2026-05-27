@@ -1,0 +1,13 @@
+{
+  "$id": "c_yearsExperience",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Years Experience",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "c_formSubmitIdle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Form Submit Idle",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}

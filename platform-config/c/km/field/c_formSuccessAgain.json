@@ -1,0 +1,13 @@
+{
+  "$id": "c_formSuccessAgain",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Form Success Again",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
+}
