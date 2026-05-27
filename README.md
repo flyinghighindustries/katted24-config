@@ -9,14 +9,15 @@ from GitHub and applies the field definitions — no Yext CLI needed.
 
 ## Layout
 
+Resources live at the **repo root** (matching the proven `sendoplex-config` layout):
+
 ```
-platform-config/c/km/
-├── field/                       # 114 custom field definitions (one JSON each)
-│   ├── c_heroTitle.json
-│   ├── c_solutionBodies.json
-│   └── …
-└── field-eligibility-group/
-    └── location.default.json    # attaches all 114 fields to the `location` entity type
+c/km/field/                          # 114 custom field definitions (one JSON each)
+├── c_heroTitle.json
+├── c_solutionBodies.json
+└── …
+ce/km/field-eligibility-group/
+└── location.default.json            # attaches all 114 fields to the `location` entity type
 ```
 
 ## What's modelled
