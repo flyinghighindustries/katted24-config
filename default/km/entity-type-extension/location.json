@@ -1,0 +1,6 @@
+{
+  "$id": "location",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "location"
+}
